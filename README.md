@@ -1,3 +1,3 @@
-The aim of t his assignment is goin g to p redict the rating s of ac curacy , cl eanliness, check in, communication,
-location and value and ov erall re vi ew rating for a listing in Airbnb and explore the feasibility to do so. Data
-preprocess, models’ sele c t ion and perfo rmance evaluation of models are include d
+The aim of this assignment is going to predict the ratings of accuracy , cleanliness, checkin, communication, location and value and overall review rating for a listing in Airbnb and explore the feasibility to do so. Data preprocess, models’ selection and performance evaluation of models are included.
+
+Data source: The data listings.csv.gz and reviews .csv.gz as of 11th Sept 2022 were downloaded from Inside Airbnb website at http://insideairbnb.com/get the data/data/. There are 75 features and 7566 sam ples in the listings.csv at the beginnin. There are 6 features and 243183 samples in the reviews.csv.
